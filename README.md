@@ -65,7 +65,6 @@ Predict house prices using property features like area, bedrooms, and location.
 ### ✅ Findings
 - Gradient Boosting outperformed linear regression.
 - Models predicted prices close to actual values on test data.
-- 
 ## 📬 Contact
 
 Feel free to connect with me:
