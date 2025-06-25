@@ -39,8 +39,8 @@ Apple Inc. (AAPL) stock data retrieved via `yfinance`.
 Classify whether a person has heart disease based on health attributes.
 
 ### 📂 Dataset
-HeartDiseaseTrain-Test.csv (structured medical data).
-
+-Heart Disease Prediction Dataset (structured medical data from Kaggle).
+-The dataset (`HeartDiseaseTrain-Test.csv`) is included in this folder for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
 ### 🛠️ Methods
 - Logistic Regression model
 - Evaluation via accuracy, confusion matrix, ROC curve
@@ -54,7 +54,9 @@ HeartDiseaseTrain-Test.csv (structured medical data).
 Predict house prices using property features like area, bedrooms, and location.
 
 ### 📂 Dataset
-House Price Prediction Dataset (from Kaggle).
+-House Price Prediction Dataset (from Kaggle).
+-The dataset (`House Price Prediction Dataset.csv`) is included in this folder for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
+
 
 ### 🛠️ Methods
 - Linear Regression and Gradient Boosting Regressor
