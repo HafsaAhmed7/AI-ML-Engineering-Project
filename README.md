@@ -63,8 +63,12 @@ House Price Prediction Dataset (from Kaggle).
 ### ✅ Findings
 - Gradient Boosting outperformed linear regression.
 - Models predicted prices close to actual values on test data.
-Contact
-[LinkedIn](https://www.linkedin.com/in/hafsa-ahmed-0a132b32b)
+- 
+## 📬 Contact
 
+Feel free to connect with me:
+
+- **GitHub**: [HafsaAhmed7](https://github.com/HafsaAhmed7)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/hafsa-ahmed-0a132b32b)
 
 
