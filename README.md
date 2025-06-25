@@ -2,141 +2,69 @@
 My Data Science Projects (Google Colab)
 This repository showcases data science projects completed in Google Colaboratory. Each notebook demonstrates my skills in data manipulation, analysis, visualization, and machine learning using Python.
 
-Table of Contents
-Project Overview
+# 🌸 Task 1: Iris Dataset Analysis
 
-Quick Overview of Projects
+### 🧠 Objective
+Explore the Iris dataset and understand feature relationships for flower species classification.
 
-Tasks Completed
+### 📂 Dataset
+Seaborn’s built-in Iris dataset (150 samples, 3 species, 4 features).
 
-Technologies Used
+### 🛠️ Methods
+- Exploratory Data Analysis (EDA)
+- Visualization using pairplots, histograms, boxplots
 
-How to View/Run Notebooks
+### ✅ Findings
+- Petal features are most important for species separation.
+- Setosa is clearly distinguishable; others overlap slightly.
+# 📈 Task 2: Stock Price Prediction
 
+### 🧠 Objective
+Predict next-day closing prices for AAPL stock using historical data.
+
+### 📂 Dataset
+Apple Inc. (AAPL) stock data retrieved via `yfinance`.
+
+### 🛠️ Methods
+- Data preprocessing and feature engineering
+- Linear Regression model
+- Evaluation using R² Score and RMSE
+
+### ✅ Findings
+- Model captured short-term trends moderately well.
+- Visualization showed prediction alignment with actual prices.
+# ❤️ Task 3: Heart Disease Prediction
+
+### 🧠 Objective
+Classify whether a person has heart disease based on health attributes.
+
+### 📂 Dataset
+HeartDiseaseTrain-Test.csv (structured medical data).
+
+### 🛠️ Methods
+- Logistic Regression model
+- Evaluation via accuracy, confusion matrix, ROC curve
+
+### ✅ Findings
+- Achieved strong classification performance.
+- Features like cholesterol and chest pain type were significant.
+# 🏠 Task 4: House Price Prediction
+
+### 🧠 Objective
+Predict house prices using property features like area, bedrooms, and location.
+
+### 📂 Dataset
+House Price Prediction Dataset (from Kaggle).
+
+### 🛠️ Methods
+- Linear Regression and Gradient Boosting Regressor
+- Evaluation with MAE and RMSE
+
+### ✅ Findings
+- Gradient Boosting outperformed linear regression.
+- Models predicted prices close to actual values on test data.
 Contact
+[LinkedIn](https://www.linkedin.com/in/hafsa-ahmed-0a132b32b)
 
-Project Overview
-This collection highlights my practical data science experience, covering exploratory data analysis to predictive modeling. My objective is to illustrate my ability to process data and implement machine learning to derive insights and predictions.
 
-Quick Overview of Projects
-Task No.
 
-Objective
-
-Dataset Used
-
-Models Applied
-
-Key Results / Findings
-
-1
-
-Iris Dataset Analysis
-
-Iris dataset (from Seaborn)
-
-Exploratory Data Analysis
-
-Understanding data structure, feature distributions, and relationships for classification.
-
-2
-
-Stock Price Prediction
-
-Historical Apple Inc. (AAPL) stock data
-
-Linear Regression
-
-R² Score, RMSE, and visualization of actual vs. predicted next-day closing prices.
-
-3
-
-Heart Disease Prediction
-
-HeartDiseaseTrain-Test.csv
-
-Logistic Regression
-
-Accuracy, Confusion Matrix, Classification Report, ROC Curve, and Feature Importance.
-
-4
-
-House Price Prediction
-
-House Price Prediction Dataset.csv
-
-Linear Regression, Gradient Boosting
-
-MAE, RMSE for both models, and visualization of actual vs. predicted house prices.
-
-Tasks Completed
-Here's a breakdown of the four data science tasks in this repository:
-
-Task 1: Iris Dataset Analysis & Visualization
-
-Problem: Predict Iris species from physical characteristics.
-
-Goal: Explore, visualize, and understand the dataset for classification.
-
-Outcome: Demonstrated foundational data handling and pattern discovery.
-
-Notebook: iris_dataset_analysis.ipynb
-
-Task 2: Stock Price Prediction (Short-Term with Linear Regression)
-
-Problem: Predict next day's AAPL closing price using historical data.
-
-Goal: Build and evaluate a Linear Regression model for stock forecasting.
-
-Outcome: Implemented time-series prediction, evaluated with R² and RMSE.
-
-Notebook: aapl_stock_prediction.ipynb
-
-Task 3: Heart Disease Prediction (Logistic Regression)
-
-Problem: Predict heart disease risk from medical attributes.
-
-Goal: Classify patients using Logistic Regression.
-
-Outcome: Handled preprocessing, built a classification model, and evaluated using various metrics.
-
-Notebook: heart_disease_prediction.ipynb
-
-Task 4: House Price Prediction (Linear & Gradient Boosting Regression)
-
-Problem: Predict house prices based on property features.
-
-Goal: Preprocess data, train Linear Regression and Gradient Boosting models, and evaluate performance.
-
-Outcome: Performed preprocessing and compared two regression models.
-
-Notebook: house_price_prediction.ipynb
-
-Technologies Used
-Python 3.x
-
-Google Colaboratory
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-learn
-
-yfinance
-
-How to View/Run Notebooks
-View .ipynb files on GitHub or open them directly in Google Colab. To run locally:
-
-git clone https://github.com/YourUsername/YourRepositoryName.git
-
-Then upload .ipynb files to Google Drive and open with Colab.
-
-Contact
-Feel free to connect for questions, feedback, or collaboration.
-
-GitHub: [Your GitHub Profile Link (e.g., https://github.com/your-username)]
-
-LinkedIn: [Your LinkedIn Profile Link (Optional)]
-
-Email: [Your Email Address (Optional)]
