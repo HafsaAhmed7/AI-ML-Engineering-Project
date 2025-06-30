@@ -40,7 +40,7 @@ Classify whether a person has heart disease based on health attributes.
 
 ### 📂 Dataset
 -Heart Disease Prediction Dataset (structured medical data from Kaggle).
--The dataset (`HeartDiseaseTrain-Test.csv`) is included in this folder for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
+-The dataset (`HeartDiseaseTrain-Test.csv`) is included in ipynb file for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
 ### 🛠️ Methods
 - Logistic Regression model
 - Evaluation via accuracy, confusion matrix, ROC curve
@@ -55,7 +55,7 @@ Predict house prices using property features like area, bedrooms, and location.
 
 ### 📂 Dataset
 -House Price Prediction Dataset (from Kaggle).
--The dataset (`House Price Prediction Dataset.csv`) is included in this folder for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
+-The dataset (`kc house Data.csv`) is included in ipynb file for easy access and reproducibility. You can click on it to view or download the raw data used in this task.
 
 
 ### 🛠️ Methods
