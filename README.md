@@ -65,6 +65,36 @@ Predict house prices using property features like area, bedrooms, and location.
 ### ✅ Findings
 - Gradient Boosting outperformed linear regression.
 - Models predicted prices close to actual values on test data.
+
+# 💬 Task 5: General Health Chatbot (Prompt Engineering Based)
+### 🧠 Objective
+- Build a conversational AI chatbot that answers general health-related questions in a friendly and safe manner using a large language model (LLM).
+
+### 📂 Model
+
+- google/flan-t5-large (open-source, fast, and effective for Q&A tasks)
+
+Code implemented and tested in Google Colab
+
+### 🛠️ Methods
+
+- Prompt engineering to simulate a helpful health assistant
+
+- Safety filters to block medically sensitive or harmful queries
+
+- Interactive chatbot interface using Python and Hugging Face Transformers
+
+- Predefined keyword blocking for risk management
+
+### ✅ Findings
+
+- The chatbot responded accurately to general health and wellness queries.
+
+- The prompt format improved friendliness and clarity of responses.
+
+- Safety filters successfully blocked dangerous or inappropriate questions, ensuring responsible AI use.
+
+
 ## 📬 Contact
 
 Feel free to connect with me:
